@@ -1,0 +1,25 @@
+td {width:50%; text-align: center;}
+h1 {text-align: center;}
+table {width:100%}
+img {border-radius: 20px;}
+
+
+#myDIV {
+  line-height: 16px;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  50% {line-height: 50px;}
+}
+
+
+
+
+.xxs {font-size:xx-small;}
+.xs {font-size:x-small;}
+.s {font-size:small;}
+.m {font-size:medium;}
+.l {font-size:large;}
+.xl {font-size:x-large;}
+.xxl {font-size:xx-large;}
